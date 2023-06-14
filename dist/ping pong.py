@@ -54,8 +54,8 @@ lose_2 = font.render('2 player lose', True, (180, 0, 0))
 
 #Music
 mixer.init()
-mixer.music.load('bg_music.ogg')
-mixer.music.play('bg_music.ogg')
+#mixer.music.load('bg_music.ogg')
+#mixer.music.play('bg_music.ogg')
 
 #punch = mixer.Sound('punch.mp3')
 
